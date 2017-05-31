@@ -4,9 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
 
-/**
- * Created by bdimitrov on 3/1/17.
- */
 @Configuration
 public class ApplicationConfiguration {
 
